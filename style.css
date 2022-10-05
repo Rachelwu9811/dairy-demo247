@@ -1,0 +1,590 @@
+.foo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(145, 135, 122);
+    text-align: center;
+    }
+
+.baz{
+    text-align: center; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    background-position: center;
+    background-color: bisque;
+    margin:20px auto;
+    padding: 30px;
+    width: 500px; height: 100px;
+    }
+
+
+    
+#dailycss_20200803-2 {
+background-color: #232323;
+position: center;
+width: 500px;
+height: 375px;
+margin: 20px auto;
+padding: 0px;
+    }
+
+#dailycss_20200803-2 .container {
+position: center;
+width: 900px;
+height: 700px;
+margin: 0px auto;
+top: 0%;
+left: 0%;
+transform: translateY(-50%) translateX(-50%);
+    }
+
+#dailycss_20200803-2 .imageBox {
+width: 500px;
+height: 375px;
+position: relative;
+overflow: hidden;
+    }
+
+#dailycss_20200803-2 .imageBox img {
+width: 100%;
+transition: .3s;
+    }
+
+#dailycss_20200803-2 .textBox {
+position: absolute;
+top: 0;
+left: -100%;
+width: 100%;
+height: 100%;
+text-align: center;
+background-color: rgba(146, 183, 209, 0.548);
+transition: .5s;
+    }
+
+#dailycss_20200803-2 .textBox p {
+margin: 0;
+padding: 0;
+position: absolute;
+top: 42%;
+left: 30%;
+transform: translateY(-30%) translateX(-25%);
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+    }
+
+#dailycss_20200803-2 .imageBox:hover .textBox {
+left: 0;
+    }
+
+    #dailycss_20200803-1 {
+        background-color: #232323;
+        position: center;
+        width: 500px;
+        height: 375px;
+        margin: 20px auto;
+        padding: 0px;
+            }
+        
+        #dailycss_20200803-1 .container {
+        position: center;
+        width: 900px;
+        height: 700px;
+        margin: 0px auto;
+        top: 0%;
+        left: 0%;
+        transform: translateY(-50%) translateX(-50%);
+            }
+        
+        #dailycss_20200803-1 .imageBox {
+        width: 500px;
+        height: 375px;
+        position: relative;
+        overflow: hidden;
+            }
+        
+        #dailycss_20200803-1 .imageBox img {
+        width: 100%;
+        transition: .3s;
+            }
+        
+        #dailycss_20200803-1 .textBox {
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        background-color: rgba(146, 183, 209, 0.548);
+        transition: .5s;
+            }
+        
+        #dailycss_20200803-1 .textBox p {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 42%;
+        left: 30%;
+        transform: translateY(-30%) translateX(-25%);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(0, 0, 0);
+            }
+        
+        #dailycss_20200803-1 .imageBox:hover .textBox {
+        left: 0;
+            }
+
+            #dailycss_20200803-3 {
+                background-color: #232323;
+                position: center;
+                width: 500px;
+                height: 375px;
+                margin: 20px auto;
+                padding: 0px;
+                    }
+                
+                #dailycss_20200803-3 .container {
+                position: center;
+                width: 900px;
+                height: 700px;
+                margin: 0px auto;
+                top: 0%;
+                left: 0%;
+                transform: translateY(-50%) translateX(-50%);
+                    }
+                
+                #dailycss_20200803-3 .imageBox {
+                width: 500px;
+                height: 375px;
+                position: relative;
+                overflow: hidden;
+                    }
+                
+                #dailycss_20200803-3 .imageBox img {
+                width: 100%;
+                transition: .3s;
+                    }
+                
+                #dailycss_20200803-3 .textBox {
+                position: absolute;
+                top: 0;
+                left: -100%;
+                width: 100%;
+                height: 100%;
+                text-align: center;
+                background-color: rgba(146, 183, 209, 0.548);
+                transition: .5s;
+                    }
+                
+                #dailycss_20200803-3 .textBox p {
+                margin: 0;
+                padding: 0;
+                position: absolute;
+                top: 42%;
+                left: 30%;
+                transform: translateY(-30%) translateX(-25%);
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                color: rgb(0, 0, 0);
+                    }
+                
+                #dailycss_20200803-3 .imageBox:hover .textBox {
+                left: 0;
+                    }
+
+
+                    #dailycss_20200803-4 {
+                        background-color: #232323;
+                        position: center;
+                        width: 500px;
+                        height: 375px;
+                        margin: 20px auto;
+                        padding: 0px;
+                            }
+                        
+                        #dailycss_20200803-4 .container {
+                        position: center;
+                        width: 900px;
+                        height: 700px;
+                        margin: 0px auto;
+                        top: 0%;
+                        left: 0%;
+                        transform: translateY(-50%) translateX(-50%);
+                            }
+                        
+                        #dailycss_20200803-4 .imageBox {
+                        width: 500px;
+                        height: 375px;
+                        position: relative;
+                        overflow: hidden;
+                            }
+                        
+                        #dailycss_20200803-4 .imageBox img {
+                        width: 100%;
+                        transition: .3s;
+                            }
+                        
+                        #dailycss_20200803-4 .textBox {
+                        position: absolute;
+                        top: 0;
+                        left: -100%;
+                        width: 100%;
+                        height: 100%;
+                        text-align: center;
+                        background-color: rgba(146, 183, 209, 0.548);
+                        transition: .5s;
+                            }
+                        
+                        #dailycss_20200803-4 .textBox p {
+                        margin: 0;
+                        padding: 0;
+                        position: absolute;
+                        top: 42%;
+                        left: 30%;
+                        transform: translateY(-30%) translateX(-25%);
+                        font-family: Georgia, 'Times New Roman', Times, serif;
+                        color: rgb(0, 0, 0);
+                            }
+                        
+                        #dailycss_20200803-4 .imageBox:hover .textBox {
+                        left: 0;
+                            }
+
+#dailycss_20200803-5 {
+background-color: #232323;
+position: center;
+width: 500px;
+height: 375px;
+margin: 20px auto;
+padding: 0px;
+    }
+                                
+#dailycss_20200803-5 .container {
+position: center;
+width: 900px;
+height: 700px;
+margin: 0px auto;
+top: 0%;
+left: 0%;
+transform: translateY(-50%) translateX(-50%);
+    }
+                                
+#dailycss_20200803-5 .imageBox {
+width: 500px;
+height: 375px;
+position: relative;
+overflow: hidden;
+    }
+                                
+#dailycss_20200803-5 .imageBox img {
+width: 100%;
+transition: .3s;
+    }
+                                
+#dailycss_20200803-5 .textBox {
+position: absolute;
+top: 0;
+left: -100%;
+width: 100%;
+height: 100%;
+text-align: center;
+background-color: rgba(146, 183, 209, 0.548);
+transition: .5s;
+    }
+                                
+#dailycss_20200803-5 .textBox p {
+margin: 0;
+padding: 0;
+position: absolute;
+top: 42%;
+left: 30%;
+transform: translateY(-30%) translateX(-25%);
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+    }
+                                
+#dailycss_20200803-5 .imageBox:hover .textBox {
+left: 0;
+    }
+
+    #dailycss_20200803-6 {
+        background-color: #232323;
+        position: center;
+        width: 500px;
+        height: 375px;
+        margin: 20px auto;
+        padding: 0px;
+            }
+                                        
+        #dailycss_20200803-6 .container {
+        position: center;
+        width: 900px;
+        height: 700px;
+        margin: 0px auto;
+        top: 0%;
+        left: 0%;
+        transform: translateY(-50%) translateX(-50%);
+            }
+                                        
+        #dailycss_20200803-6 .imageBox {
+        width: 500px;
+        height: 375px;
+        position: relative;
+        overflow: hidden;
+            }
+                                        
+        #dailycss_20200803-6 .imageBox img {
+        width: 100%;
+        transition: .3s;
+            }
+                                        
+        #dailycss_20200803-6 .textBox {
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        background-color: rgba(146, 183, 209, 0.548);
+        transition: .5s;
+            }
+                                        
+        #dailycss_20200803-6 .textBox p {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 42%;
+        left: 30%;
+        transform: translateY(-30%) translateX(-25%);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(0, 0, 0);
+            }
+                                        
+        #dailycss_20200803-6 .imageBox:hover .textBox {
+        left: 0;
+            }
+
+            #dailycss_20200803-7 {
+                background-color: #232323;
+                position: center;
+                width: 500px;
+                height: 375px;
+                margin: 20px auto;
+                padding: 0px;
+                    }
+                                                
+                #dailycss_20200803-7 .container {
+                position: center;
+                width: 900px;
+                height: 700px;
+                margin: 0px auto;
+                top: 0%;
+                left: 0%;
+                transform: translateY(-50%) translateX(-50%);
+                    }
+                                                
+                #dailycss_20200803-7 .imageBox {
+                width: 500px;
+                height: 375px;
+                position: relative;
+                overflow: hidden;
+                    }
+                                                
+                #dailycss_20200803-7 .imageBox img {
+                width: 100%;
+                transition: .3s;
+                    }
+                                                
+                #dailycss_20200803-7 .textBox {
+                position: absolute;
+                top: 0;
+                left: -100%;
+                width: 100%;
+                height: 100%;
+                text-align: center;
+                background-color: rgba(146, 183, 209, 0.548);
+                transition: .5s;
+                    }
+                                                
+                #dailycss_20200803-7 .textBox p {
+                margin: 0;
+                padding: 0;
+                position: absolute;
+                top: 42%;
+                left: 30%;
+                transform: translateY(-30%) translateX(-25%);
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                color: rgb(0, 0, 0);
+                    }
+                                                
+                #dailycss_20200803-7 .imageBox:hover .textBox {
+                left: 0;
+                    }
+
+                    #dailycss_20200803-8 {
+                        background-color: #232323;
+                        position: center;
+                        width: 500px;
+                        height: 375px;
+                        margin: 20px auto;
+                        padding: 0px;
+                            }
+                                                        
+                        #dailycss_20200803-8 .container {
+                        position: center;
+                        width: 900px;
+                        height: 700px;
+                        margin: 0px auto;
+                        top: 0%;
+                        left: 0%;
+                        transform: translateY(-50%) translateX(-50%);
+                            }
+                                                        
+                        #dailycss_20200803-8 .imageBox {
+                        width: 500px;
+                        height: 375px;
+                        position: relative;
+                        overflow: hidden;
+                            }
+                                                        
+                        #dailycss_20200803-8 .imageBox img {
+                        width: 100%;
+                        transition: .3s;
+                            }
+                                                        
+                        #dailycss_20200803-8 .textBox {
+                        position: absolute;
+                        top: 0;
+                        left: -100%;
+                        width: 100%;
+                        height: 100%;
+                        text-align: center;
+                        background-color: rgba(146, 183, 209, 0.548);
+                        transition: .5s;
+                            }
+                                                        
+                        #dailycss_20200803-8 .textBox p {
+                        margin: 0;
+                        padding: 0;
+                        position: absolute;
+                        top: 42%;
+                        left: 30%;
+                        transform: translateY(-30%) translateX(-25%);
+                        font-family: Georgia, 'Times New Roman', Times, serif;
+                        color: rgb(0, 0, 0);
+                            }
+                                                        
+                        #dailycss_20200803-8 .imageBox:hover .textBox {
+                        left: 0;
+                            }
+
+
+                            #dailycss_20200803-9 {
+                                background-color: #232323;
+                                position: center;
+                                width: 500px;
+                                height: 375px;
+                                margin: 20px auto;
+                                padding: 0px;
+                                    }
+                                                                
+                                #dailycss_20200803-9 .container {
+                                position: center;
+                                width: 900px;
+                                height: 700px;
+                                margin: 0px auto;
+                                top: 0%;
+                                left: 0%;
+                                transform: translateY(-50%) translateX(-50%);
+                                    }
+                                                                
+                                #dailycss_20200803-9 .imageBox {
+                                width: 500px;
+                                height: 375px;
+                                position: relative;
+                                overflow: hidden;
+                                    }
+                                                                
+                                #dailycss_20200803-9 .imageBox img {
+                                width: 100%;
+                                transition: .3s;
+                                    }
+                                                                
+                                #dailycss_20200803-9 .textBox {
+                                position: absolute;
+                                top: 0;
+                                left: -100%;
+                                width: 100%;
+                                height: 100%;
+                                text-align: center;
+                                background-color: rgba(146, 183, 209, 0.548);
+                                transition: .5s;
+                                    }
+                                                                
+                                #dailycss_20200803-9 .textBox p {
+                                margin: 0;
+                                padding: 0;
+                                position: absolute;
+                                top: 42%;
+                                left: 30%;
+                                transform: translateY(-30%) translateX(-25%);
+                                font-family: Georgia, 'Times New Roman', Times, serif;
+                                color: rgb(0, 0, 0);
+                                    }
+                                                                
+                                #dailycss_20200803-9 .imageBox:hover .textBox {
+                                left: 0;
+                                    }
+
+#dailycss_20200803-0 {
+background-color: #232323;
+position: center;
+width: 500px;
+height: 375px;
+margin: 20px auto;
+padding: 0px;
+    }
+                                                                        
+#dailycss_20200803-0 .container {
+position: center;
+width: 900px;
+height: 700px;
+margin: 0px auto;
+top: 0%;
+left: 0%;
+transform: translateY(-50%) translateX(-50%);
+    }
+                                                                        
+#dailycss_20200803-0 .imageBox {
+width: 500px;
+height: 375px;
+position: relative;
+overflow: hidden;
+   }
+                                                                        
+#dailycss_20200803-0 .imageBox img {
+width: 100%;
+transition: .3s;
+    }
+                                                                        
+#dailycss_20200803-0 .textBox {
+position: absolute;
+top: 0;
+left: -100%;
+width: 100%;
+height: 100%;
+text-align: center;
+background-color: rgba(146, 183, 209, 0.548);
+transition: .5s;
+    }
+                                                                        
+#dailycss_20200803-0 .textBox p {
+margin: 0;
+padding: 0;
+position: absolute;
+top: 42%;
+left: 30%;
+transform: translateY(-30%) translateX(-25%);
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(0, 0, 0);
+    }
+                                                                        
+#dailycss_20200803-0 .imageBox:hover .textBox {
+left: 0;
+    }
+        
